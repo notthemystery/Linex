@@ -1,4 +1,4 @@
-# Linux Password Recovery Tool
+# Linex - Linux Password Recovery Tool
 
 A lightweight utility for recovering or resetting Linux user passwords in authorized recovery scenarios such as system administration, lab environments, or lost credential recovery on owned systems.
 
@@ -11,10 +11,3 @@ A lightweight utility for recovering or resetting Linux user passwords in author
 ## 🚀 Usage
 
 Download Linex Binary for your system in releases page and run ./linex in a shell. Follow instructions
-
----
-
-### 2. Remount Filesystem (if needed)
-
-```bash
-mount -o remount,rw /
