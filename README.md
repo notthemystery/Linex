@@ -5,7 +5,7 @@ A lightweight utility for recovering or resetting Linux user passwords in author
 > ⚠️ **Disclaimer**
 > This tool is intended for **legitimate system recovery only**.  
 > Do not use it on systems you do not own or have explicit permission to administer. Unauthorized access may be illegal.
-> Currently, this can only be used for root password recovery only. this means you should have another user that you can login in your computer
+> Currently, this can only be used for root password recovery only. this means you should have another user that you can login in your computer. And if you dont have access to your computer you should have telnet installed. and you should have another accessible computer
 ---
 
 ## 🚀 Usage
