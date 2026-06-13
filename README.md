@@ -10,4 +10,4 @@ A lightweight utility for recovering or resetting Linux user passwords in author
 
 ## 🚀 Usage
 
-Download Linex Binary for your system in releases page and run ./linex in a shell. Follow instructions
+Download Linex Binary for your system in releases page and run ./main.sh in a shell. Follow instructions
